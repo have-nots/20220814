@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Department.DepartmentTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.909 s <<< FAILURE! - in Department.DepartmentTest
+Department.DepartmentTest  Time elapsed: 0.906 s  <<< ERROR!
+java.lang.IllegalStateException: Cannot configure logging since request specification is not defined. You may be misusing the API.
+	at Department.DepartmentTest.beforeAll(DepartmentTest.java:28)
+
